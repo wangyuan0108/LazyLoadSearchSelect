@@ -1,6 +1,6 @@
 {
   "name": "lazyloadsearchselect",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "支持搜索和下拉懒加载功能的select",
   "main": "./lib/index.js",
   "scripts": {
